@@ -9,7 +9,7 @@ params:
     tagline: Header Tagline
     profile_img_alt: Author avatar
     background: light
-    has_nav: false
+    has_nav: true
     nav_links:
       - label: Home
         url: /
