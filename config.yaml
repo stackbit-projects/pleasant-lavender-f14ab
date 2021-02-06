@@ -5,7 +5,7 @@ params:
   layout_style: overflow
   palette: blue
   header:
-    title: ''
+    title: tEROMAKER
     tagline: Header Tagline
     profile_img_alt: Author avatar
     background: dark
